@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664781694 source:c:\users\isnan\downloads\program c erna\tugas_2,5_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
