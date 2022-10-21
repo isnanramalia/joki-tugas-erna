@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/style.css/style.css"></link>
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+</head>
+<body>
+	<div class="container">
+		<form>
+			<div class="from-input">
+				</input type="text" name="username">
+	</div>
+	<div class="from-input">
+		<input type="text" name="username">
+		</div>
+			<div class="from-input">
+				</input type="password" name="password">
+	</div>
+	</form>
+	</div>
+</body>
+</html>	
